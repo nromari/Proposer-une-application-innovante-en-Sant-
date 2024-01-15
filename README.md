@@ -12,3 +12,10 @@ Ce projet implique donc une étape d'exploration et de nettoyage des données, a
 
 Les données Open Food Facts sont téléchargeables via ce lien :
 https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip
+
+Compétences :
+
+- Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
+- Effectuer des opérations de nettoyage sur des données structurées
+- Effectuer une analyse statistique multivariée
+- Effectuer une analyse statistique univariée
