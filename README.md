@@ -9,3 +9,6 @@ On y trouve :
 - Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
 
 Ce projet implique donc une étape d'exploration et de nettoyage des données, ainsi qu'une étape d’exploration comportant une analyse univariée, multivariée, avec une réduction dimensionnelle.
+
+Les données Open Food Facts sont téléchargeables via ce lien :
+https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip
